@@ -1,0 +1,3 @@
+# CheckersFXProject
+Dámajáték javafx-es implementációja. Több különféle játkszabállyal...
+
